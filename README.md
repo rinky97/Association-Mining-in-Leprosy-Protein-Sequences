@@ -1,2 +1,2 @@
-# Association-Mining-in-Cancer-Biomarkers-using-fuzzy-approaches
+# Association-Mining-in-Leprosy protein sequences
 fuzzy approaches implemented in python
