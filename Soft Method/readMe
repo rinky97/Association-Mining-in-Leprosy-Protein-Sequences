@@ -1,0 +1,5 @@
+The soft.py file contains the python code that incorporates the fuzzy logic while categorizing each sequence into low length, medium length and large length sequences while mining.
+The soft.fasta file is the input file that contains leprosy sequences.
+The r_soft_low contains the low length sequence results that were mined when the .fasta file was run against .py file.
+The r_soft_medium contains the medium length sequence results that were mined when the .fasta file was run against .py file.
+The r_soft_high contains the high length sequence results that were mined when the .fasta file was run against .py file.
