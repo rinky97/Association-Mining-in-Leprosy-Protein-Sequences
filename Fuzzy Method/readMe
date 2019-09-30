@@ -1,0 +1,3 @@
+The fuzzy.py file contains the python code that incorporates the fuzzy logic while mining.
+The fuzzy.fasta file is the input file that contains leprosy sequences.
+The r_fuzzy contains the results that were mined when the .fasta file was run against .py file.
