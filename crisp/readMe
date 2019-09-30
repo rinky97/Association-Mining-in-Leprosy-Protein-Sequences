@@ -1,0 +1,3 @@
+The normal.py file contains the python code to mining the association patterns of leprosy protein sequences without using fuzzy parameters like length of the sequence,
+The normal.fasta is the input file format that contains the protein sequences along with its specific details that identifies the sequence uniquely.
+The r_crisp file contains the results of the patterns that were mined when the input file was run against the .py code file.
